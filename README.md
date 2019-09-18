@@ -17,9 +17,9 @@ Summarized from [salesforce](https://www.salesforce.com/products/platform/best-p
 12. **Sustainability**. Hosting on the cloud is more environmentally friendly and results in less of a carbon footprint.
 
 The most popular cloud computing platforms are:
-1. Amazon Web Services (AWS)
-2. Microsoft Azure
-3. Google Cloud Platform (GCP)
+1. [Amazon Web Services (AWS)](https://aws.amazon.com)
+2. [Microsoft Azure](https://azure.microsoft.com/en-us/)
+3. [Google Cloud Platform (GCP)](https://cloud.google.com/)
 
 When comparing services from each of these platforms whether suitable with your organization cloud journey, it's important to consider the following points:
 - Size and goals
@@ -29,7 +29,7 @@ When comparing services from each of these platforms whether suitable with your 
 However, not all the services of cloud providers are the same. They offer different features, and some are more compatible with specific business models and company sizes.
 
 Here is a comprehensive overview and comparison of the top three business cloud services and their features, advantages, and drawbacks. 
-1. Cloud Provider Overview
+1. [Cloud Provider Overview](contents/cloud-provider-overview.md)
 2. Storage Comparision
 3. Tool Comparison
 4. Computation Comparison
@@ -39,9 +39,9 @@ Here is a comprehensive overview and comparison of the top three business cloud 
 ## Which Cloud Provider is Best for My Business?
 
 ## Conclusion
-AWS owns nearly half of the world's public-cloud infrastructure market (47.8%). This is due to number of global-reach services and length time on the market.
+AWS owns nearly half of the world's public-cloud infrastructure market (47.8%). This is due to number of global-reach tools and services, while length time on the market.
 
-If most of your business operations run on Microsoft products, Azure might work better for you.
+If most of your business operations run on Microsoft products or you looking for a good platform as a service (PaaS) cloud provider, Azure might work better for you.
 
 If your businesses focus on more innovation and less need of global-reach features, you might prefer Google Cloud Platform.
 
