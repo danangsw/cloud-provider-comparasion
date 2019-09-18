@@ -1,0 +1,48 @@
+# cloud-providers-comparasion
+
+The most lovely experience of doing business in cloud computing is how to pass the provision and deployment time. However, cloud computing has more business advantages from both a strategic and performance angle.
+
+Summarized from [salesforce](https://www.salesforce.com/products/platform/best-practices/benefits-of-cloud-computing/#) here are some business advantages of cloud computing:
+1. **Cost Saving**. Once you're on the cloud, easy access to your company's data will save time and money in project startups. 
+2. **Security**. The key to this security is the encryption of data being transmitted over the networks and stored in databases.
+3. **Flexibility**. The ability to quickly meet business demands rather than forcing your organization to commit too much of the attention to computer and data-storage issues.
+4. **Mobility**. Cloud computing allows mobile access to corporate data or infrastructure resources via smartphones or devices.
+5. **Insight**. Many cloud-based storage solutions offer integrated cloud analytics for your data. You can easily implement tracking mechanisms and build customized reports to analyze information organization wide.
+6. **Increased Collaboration**. With a cloud-computing solution the collaboration will be easier and more effective.
+7. **Quality Control**. All documents are stored in one place and in a single format. You can maintain consistency in data, avoid human error, and have a clear record of any revisions or updates.
+8. **Disaster Recovery**. Cloud-based services provide a quick data recovery for all kind emergency scenario, from natural disasters to power outage.
+9. **Loss Prevention**. All the data have uploaded to cloud remains save and easily accessible from any computer with the internet connection, even if the local computer use isn't working.
+10. **Automatic Software Update**. The most of cloud-services perform automatically refresh and update themselves, instead of forcing an IT dept to perform manual organization-wide update.
+11. **Competitive Edge**. Cloud technology gives your organization a competitive significant advantage.
+12. **Sustainability**. Hosting on the cloud is more environmentally friendly and results in less of a carbon footprint.
+
+The most popular cloud computing platforms are:
+1. Amazon Web Services (AWS)
+2. Microsoft Azure
+3. Google Cloud Platform (GCP)
+
+When comparing services from each of these platforms whether suitable with your organization cloud journey, it's important to consider the following points:
+- Size and goals
+- The expected growth rate
+- The budget.
+
+However, not all the services of cloud providers are the same. They offer different features, and some are more compatible with specific business models and company sizes.
+
+Here is a comprehensive overview and comparison of the top three business cloud services and their features, advantages, and drawbacks. 
+1. Cloud Provider Overview
+2. Storage Comparision
+3. Tool Comparison
+4. Computation Comparison
+5. Pricing Comparison
+6. Cloud Provider Pros and Cons
+
+## Which Cloud Provider is Best for My Business?
+
+## Conclusion
+AWS owns nearly half of the world's public-cloud infrastructure market (47.8%). This is due to number of global-reach services and length time on the market.
+
+If most of your business operations run on Microsoft products, Azure might work better for you.
+
+If your businesses focus on more innovation and less need of global-reach features, you might prefer Google Cloud Platform.
+
+Choose wisely.
