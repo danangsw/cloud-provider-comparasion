@@ -44,11 +44,13 @@ What follows is Azure’s available storage/backup solutions:
 
 ### Storage:
 
-Blob Storage
-Queue Storage
-File Storage
-Disk Storage
-Data Lake Storage
+- [Blob Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction): Object storage solution for the cloud. It is optimized for storing massive of unstructured data, such as text or binary data.
+- [Queue Storage](https://docs.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction): To store and retrieve messages, the Queue messages can be up to 64 KB in size and can contain millions of messages queue.
+- [File Storage](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction): Enables you to set up highly available network file shares that can be accessed by using standard Server Message Block (SMB) protocol.
+- [Disk Storage](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview): is a Virtual Hard Disk (VHD), it like a physical disk in on premises server but, virtualized.
+- [Data Lake Storage](https://docs.microsoft.com/id-id/azure/storage/blobs/data-lake-storage-introduction): Set of capabilities dedicated to big data analytics, built on Azure Blob storage
+
+Here is for futher details about the [azure storage services](https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction).
 
 ### Database:
 
