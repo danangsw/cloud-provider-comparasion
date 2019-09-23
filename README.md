@@ -38,6 +38,29 @@ Here is a comprehensive overview and comparison of the top three business cloud 
 
 ## Which Cloud Provider is Best for My Business?
 
+### AWS is a good option if:
+
+- You are looking for more global reach
+- You want stable, reliable service from a cloud platform with a long track record
+- You need flexibility and a wider range of services
+- You are an enterprise company
+
+### Azure is a good option if:
+
+- You are migrating to the cloud for the first time
+- Most of your business apps and platforms are Windows-based
+- You are looking for a hybrid solution
+- You are a developer
+
+
+### Google Cloud is a good option if:
+
+- You are looking for a comprehensive container-based model
+- Your company is already well ahead in digital migration and wants to become more agile and more cost-efficient
+- Your website works within a hyperscale networking environment
+- You develop and deploy cloud-based apps
+- You’re looking for a green tech solution
+
 ## Conclusion
 AWS owns nearly half of the world's public-cloud infrastructure market (47.8%). This is due to number of global-reach tools and services, while length time on the market. Explore the [AWS products here](https://aws.amazon.com/products/).
 
