@@ -30,8 +30,8 @@ However, not all the services of cloud providers are the same. They offer differ
 
 Here is a comprehensive overview and comparison of the top three business cloud services and their features, advantages, and drawbacks. 
 1. [Cloud Provider Overview](contents/cloud-provider-overview.md)
-2. Storage Comparision
-3. Tool Comparison
+2. [Storage Comparision](contents/cloud-provider-storage.md)
+3. [Key Tool Comparison](contents/cloud-provider-keytool.md)
 4. Computation Comparison
 5. Pricing Comparison
 6. Cloud Provider Pros and Cons
@@ -39,10 +39,10 @@ Here is a comprehensive overview and comparison of the top three business cloud 
 ## Which Cloud Provider is Best for My Business?
 
 ## Conclusion
-AWS owns nearly half of the world's public-cloud infrastructure market (47.8%). This is due to number of global-reach tools and services, while length time on the market.
+AWS owns nearly half of the world's public-cloud infrastructure market (47.8%). This is due to number of global-reach tools and services, while length time on the market. Explore the [AWS products here](https://aws.amazon.com/products/).
 
-If most of your business operations run on Microsoft products or you looking for a good platform as a service (PaaS) cloud provider, Azure might work better for you.
+If most of your business operations run on Microsoft products or you looking for a good platform as a service (PaaS) cloud provider, Azure might work better for you. Browse or search of [Azure products here](https://azure.microsoft.com/en-us/services/).
 
-If your businesses focus on more innovation and less need of global-reach features, you might prefer Google Cloud Platform.
+If your businesses focus on more innovation and less need of global-reach features, you might prefer Google Cloud Platform. Here is the all of listed [Google Cloud Platform products & services](https://cloud.google.com/products/).
 
 Choose wisely.
