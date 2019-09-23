@@ -33,7 +33,7 @@ Here is a comprehensive overview and comparison of the top three business cloud 
 2. [Storage Comparision](contents/cloud-provider-storage.md)
 3. [Key Cloud Tool Comparison](contents/cloud-provider-keytool.md)
 4. [Compute Comparison](contents/cloud-provider-compute.md)
-5. Pricing Comparison
+5. [Pricing Comparison](contents/cloud-provider-pricing.md)
 6. Cloud Provider Pros and Cons
 
 ## Which Cloud Provider is Best for My Business?
