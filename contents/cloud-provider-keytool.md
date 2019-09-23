@@ -1,4 +1,4 @@
-# Cloud Provider Key Tools
+# Cloud Provider Key Cloud Tools
 
 Below is a comparison of how each platform rates in terms of AI, IoT networking, and serverless platforms.
 

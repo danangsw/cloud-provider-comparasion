@@ -31,7 +31,7 @@ However, not all the services of cloud providers are the same. They offer differ
 Here is a comprehensive overview and comparison of the top three business cloud services and their features, advantages, and drawbacks. 
 1. [Cloud Provider Overview](contents/cloud-provider-overview.md)
 2. [Storage Comparision](contents/cloud-provider-storage.md)
-3. [Key Tool Comparison](contents/cloud-provider-keytool.md)
+3. [Key Cloud Tool Comparison](contents/cloud-provider-keytool.md)
 4. Computation Comparison
 5. Pricing Comparison
 6. Cloud Provider Pros and Cons
