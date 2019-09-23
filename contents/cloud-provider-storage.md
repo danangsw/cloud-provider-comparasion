@@ -54,22 +54,22 @@ Here is for futher details about the [azure storage services](https://docs.micro
 
 ### Database:
 
-SQL database
-Database for MySQL
-Database for PostgreSQL
-Data warehouse
-Cosmos DB
-Table storage
-Redis cache
-Data Factory
-Server Stretch database
-Import/Export service
+- [SQL database](https://docs.microsoft.com/id-id/azure/sql-database/): Managed instance Microsoft SQL Server Database Engine in the cloud. The deployment models are a single database is the best choice for new modern cloud applications, elastic pools are the best place to host a large fleet of databases, and a managed instance provides high compatibility with SQL Server and enables easy migration to the cloud.
+- [Database for MySQL](https://docs.microsoft.com/en-us/azure/mysql/): A fully managed relational database based on service powered by the MySQL community edition.
+- [Database for PostgreSQL](https://docs.microsoft.com/en-us/azure/postgresql/): A fully managed relational database based on the open-source Postgres database engine.
+- [Data warehouse](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-overview-what-is): A cloud-based Enterprise Data Warehouse (EDW) that uses Massively Parallel Processing (MPP) to quickly run complex queries accross petabytes of data.
+- [Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction): A globally distributed multi-model database service. You can elastically scale throughput and storage, and take advantage of fast, single-digit-millisecond data access using your favorite API including SQL, MongoDB, Cassandra, Tables, Gremlin, Sparks, etcd and more APIs.
+- [Table storage](https://docs.microsoft.com/en-us/azure/cosmos-db/table-storage-overview): A service that stores structured NoSQL data in the cloud, providing a key/attribute store with a schemaless design.
+- [Redis cache](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview): A fully managed in-memory data structure store, a distributed non-relational database, and a message broker based on an in-memory data structure store, a distributed non-relational database, and a message broker based on the popular software [Redis](https://redis.io/).
+- [Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/introduction): A managed cloud service that's built for these complex hybrid extract-transform-load (ETL), extract-load-transform (ELT), and data integration projects.
+- [Server Stretch database](https://docs.microsoft.com/en-us/azure/sql-server-stretch-database/): Stretch Database migrates your cold data transparently and securely to the Microsoft Azure cloud.
+- [Import/Export service](https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-service): Securely import large amounts of data to Azure Blob storage and Azure Files by shipping disk drives to an Azure datacenter. This service can also be used to transfer data (export) from Azure Blob storage to disk drives and ship to your on-premises sites. 
 
 ### Backup Services: 
 
-Archive storage
-Recovery backups
-Site recovery
+- [Archive storage](https://docs.microsoft.com/id-id/azure/storage/blobs/storage-blob-storage-tiers): Optimized for storing data that is rarely accessed and stored for at least 180 days with flexible latency requirements (on the order of hours).
+- [Azure Backup](https://docs.microsoft.com/en-us/azure/backup/backup-overview): A service backs up data from on-premises machines and Azure VMs to Azure cloud.
+- [Site Recovery](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-overview): Replicates workloads running on physical and virtual machines (VMs) from a primary site to a secondary location. When an outage occurs at your primary site, you fail over to secondary location, and access apps from there. After the primary location is running again, you can fail back to it.
 
 ## GCP Storage Services
 
@@ -79,19 +79,22 @@ See the storage features that Google offers below.
 
 ### Storage:
 
-Cloud storage
-Persistent disk
-Transfer appliance
-Transfer service
+- [Cloud Storage](https://cloud.google.com/storage/): Storage solutions for any workload from High-performance object storage to Backup and archival storage.
+- [Persistent Disk](https://cloud.google.com/persistent-disk/): A high-performance block storage for VM and container instances.
+- [Cloud Storage for Firebase](https://firebase.google.com/docs): The Firebase SDKs for Cloud Storage add Google security to file uploads and downloads for your Firebase apps.
+- [Data transfer services](https://cloud.google.com/products/data-transfer/): Transfer hundreds of terabytes of data to GCP.
+- [Drive Enterprise](https://cloud.google.com/drive-enterprise/): Collaboration tools like Docs, Sheets, and Slides — all on a secure, cloud-based platform that makes it easy for users to share, store, and access files.
 
 ### Database:
 
-Cloud SQL
-Cloud Bigtable
-Cloud Spanner
-Cloud Datastore
+- [Cloud Spanner](https://cloud.google.com/spanner/): The best of cloud specifically to combine the benefits of relational database structure with non-relational horizontal scale.
+- [Cloud SQL](https://cloud.google.com/sql/): A fully managed database service that makes it easy to set up, maintain, manage, and administer your relational PostgreSQL, MySQL, and SQL Server (alpha preview) databases in the cloud.
+- [Cloud Bigtable](https://cloud.google.com/bigtable/): A petabyte-scale, fully managed NoSQL database service for large analytical and operational workloads.
+- [Cloud Firestore](https://cloud.google.com/firestore/): A fast, fully managed, serverless, cloud-native NoSQL document database that simplifies storing, syncing, and querying data for your mobile, web, and IoT apps at global scale.
+- [Cloud Memorystore](https://cloud.google.com/memorystore/): A fully-managed in-memory data store service for Redis.
+- [Firebase Realtime Database](https://firebase.google.com/products/realtime-database/): A cloud-hosted NoSQL database that lets you store and sync data between your users in realtime.
 
 ### Backup Services: 
 
-Nearline (frequently accessed data)
-Coldline (infrequently accessed data)
+- [Nearline (frequently accessed data)](https://cloud.google.com/storage/docs/storage-classes#nearline): A low-cost, highly durable storage service for storing infrequently accessed data.
+- [Coldline (infrequently accessed data)](https://cloud.google.com/storage/docs/storage-classes#coldline): A very-low-cost, highly durable storage service for data archiving, online backup, and disaster recovery.
